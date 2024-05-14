@@ -1,0 +1,82 @@
+img{
+    
+   padding-left: 25px; 
+   border-radius: 10px;
+   position: absolute;
+   top: 110px;
+   
+   
+}
+.adminicon{
+    color: aliceblue;
+    height: 20px;
+    font-size: 30px;
+    background-color: gray;
+   height: 30px;
+   width: 30px;
+   border-radius: 50%;
+
+}
+.line{
+    
+    font-size: 30px;
+    color: aliceblue;
+    font-weight: lighter;
+}
+.first{
+  background-color: rgb(110, 5, 102);
+  
+}
+.bookicon{
+    color: aliceblue;
+    height: 20px;
+    font-size: 30px;
+   height: 30px;
+   width: 30px;
+   border-radius: 50%;
+}
+.cardss{
+    box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+    border:'none'
+}
+.readmore{
+    background-color: rgb(110, 5, 102);
+    height: 40px;
+    color: aliceblue;
+    padding: 5px;
+    width: 200px;
+    position: absolute;
+    right: 0px;
+    bottom: 0px;
+    text-align: center;
+    border-radius: 50px 0 10px 0px;
+}
+.support{
+    box-shadow: 0px 25px 20px -20px rgba(0, 0, 0, 0.45), 25px 0 20px -20px rgba(0, 0, 0, 0.45);  
+   
+}
+.today{
+    background-color:  rgb(110, 5, 102);
+}
+.member{
+    box-shadow: 0px 25px 20px -20px rgba(0, 0, 0, 0.45), 25px 0 20px -20px rgba(0, 0, 0, 0.45);  
+background-color: rgb(233, 236, 238);
+border-radius: 5px;
+height: 100px;
+}
+.arrow{
+    margin-left: 20px;
+    margin-top: -20px;
+    font-size: 20px;
+}
+.lastbox{
+    background-color:  rgb(110, 5, 102);
+    margin: 10px;
+    height:100px;
+    width: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 25px;
+
+}
